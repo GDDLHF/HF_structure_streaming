@@ -18,6 +18,7 @@ object test2_option {
     println(map.getOrElse(1,"default"))
     println(map.getOrElse(2,"default"))
     println(map.getOrElse(3,"default"))
+    println(map.getOrElse(3,"这是仓库1"))
 
   }
 }
