@@ -4,4 +4,8 @@ object test5 {
 
   //git仓库不同
   print("5555555")
+  print("6666")
+
+
+
 }
