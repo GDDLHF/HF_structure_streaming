@@ -1,9 +1,9 @@
 package src.main.scala.structure_streaming.Test
 
-object test3 {
+object test4 {
   def main(args: Array[String]): Unit = {
+    //4444
 
-print("111111111111")
 
   }
 }
